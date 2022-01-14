@@ -1,0 +1,47 @@
+[
+  {
+    "materi": "Git",
+    "path": "git",
+    "content": "Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti."
+  },
+  {
+    "materi": "Frontend",
+    "path": "frontend",
+    "content": "front end adalah salah satu bagian dari website yang menampilkan tampilan pada para pengguna. Bagian ini dibuat dengan menggunakan HyperText Markup Language (HTTP), Cascading Style Sheets (CSS), dan juga JavaScript. Sehingga, suatu URL bisa bekerja dan menampilkan situs website dengan baik."
+  },
+  {
+    "materi": "Javascript",
+    "path": "javascript",
+    "content": "JavaScript adalah bahasa pemrograman yang paling banyak digunakan dalam pengembangan website, aplikasi, game, dan lainnya. Bahkan, produk dari perusahaan besar seperti Google, Facebook, dan LinkedIn juga telah menggunakan JavaScript."
+  },
+  {
+    "materi": "Javascript OOP",
+    "path": "javascript-oop",
+    "content": "Javascript adalah suatu bahasa pemrograman yang berjalan dalam sisi browser (Frontend), JavaScript juga mendukung pemrograman berorientasi objek, karena mengenal konsep object, property, method, dan inheritance/prototype yaitu sebuah pewarisan dalam JavaScript."
+  },
+  {
+    "materi": "Asynchronous",
+    "path": "asynchronous",
+    "content": "Javascript secara default mengeksekusi perintah secara synchronous, kecuali untuk beberapa hal seperti : ajax,websocket, worker, file, database, animasi dan beberapa hal lainya. Kita tidak bisa membuat proses asynchronous murni. Tapi untuk membuat simulasi iya kita bisa menggunakan fungsi setInternal dan setTimeout. Teknik Asynchronous paling banyak digunakan mengelola komunikasi yang tidak mungkin sinkron atau harus menunggu seperti proses request ajax, operasi file, koneksi ke database, websocket, real time communication seperti pada aplikasi chating dan masih banyak lagi."
+  },
+  {
+    "materi": "React JS",
+    "path": "react-js",
+    "content": "React adalah pustaka JavaScript front-end sumber terbuka dan gratis untuk membangun antarmuka pengguna berdasarkan komponen UI. Itu dikelola oleh Meta dan komunitas pengembang individu dan perusahaan. React dapat digunakan sebagai basis dalam pengembangan aplikasi satu halaman atau mobile."
+  },
+  {
+    "materi": "NodeJs x Express JS",
+    "path": "nodejs-expressjs",
+    "content": "Express.js, atau cukup Express, adalah kerangka aplikasi web back end untuk Node.js, dirilis sebagai perangkat lunak gratis dan sumber terbuka di bawah Lisensi MIT. Ini dirancang untuk membangun aplikasi web dan API. Ini telah disebut kerangka kerja server standar de facto untuk Node.js."
+  },
+  {
+    "materi": "MySql",
+    "path": "mysql",
+    "content": "MySQL adalah sebuah database management system (manajemen basis data) menggunakan perintah dasar SQL (Structured Query Language) yang cukup terkenal. Database management system (DBMS) MySQL multi pengguna dan multi alur ini sudah dipakai lebih dari 6 juta pengguna di seluruh dunia."
+  },
+  {
+    "materi": "MongoDB",
+    "path": "mongodb",
+    "content": "MongoDB adalah salah satu jenis database NoSQL yang cukup populer digunakan dalam pengembangan website. Berbeda dengan database jenis SQL yang menyimpan data menggunakan relasi tabel, MongoDB menggunakan dokumen dengan format JSON. "
+  }
+]
